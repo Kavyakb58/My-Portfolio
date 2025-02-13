@@ -33,13 +33,13 @@ Connect with me on [My Linkedin Profile](https://www.linkedin.com/in/kavyakb58).
 
 ## Personal Projects 💡
 
-### **OpenCart | Manual Testing | GitHub**  
+### **OpenCart | Manual Testing  | [Github Repository](https://github.com/Kavyakb58/OpenCart_ManualTesting)**  
 **Dec 2024 – Feb 2025**  
 - Conducted **functional** and **exploratory testing** on key features of the OpenCart e-commerce platform, identifying over 10 test scenarios.  
 - Developed and executed 30+ **test cases** to ensure functionality across multiple scenarios in OpenCart.  
 - Logged and documented 10+ defects, ensuring clear and systematic issue tracking.  
 
-### **BrowserStack Sign In & Sign Up Page | Manual Testing | GitHub**  
+### **BrowserStack Sign In & Sign Up Page | Manual Testing  | [Github Repository](https://github.com/Kavyakb58/Signup_Signin_ManualTesting)**  
 **Jan 2025 – Feb 2025**  
 - Created and executed **test cases** for **Sign In & Sign Up** functionality, covering both valid and invalid user inputs.  
 - Performed **exploratory testing** to uncover edge cases and potential vulnerabilities in the authentication process.  

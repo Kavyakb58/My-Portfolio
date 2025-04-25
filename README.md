@@ -34,14 +34,14 @@ Quality Assurance Engineer with 6 months of experience in **manual and automatio
 
 ## 📁 Projects
 
-### 🔹 [OpenCart Manual Testing](https://github.com/Kavyakb58/OpenCart_ManualTesting/))  
+### 🔹 [OpenCart Manual Testing](https://github.com/Kavyakb58/OpenCart_ManualTesting/)
 *March 2025 – April 2025*
 
 - Created a complete test plan and Requirement Traceability Matrix (RTM).
 - Designed and executed 182+ test cases for modules like Login, Register, Cart, Checkout.
 - Logged 10+ defects with severity classification.
 
-### 🔹 [Student API Testing using Postman](https://github.com/Kavyakb58/Student_Dummy_API_Postman))  
+### 🔹 [Student API Testing using Postman](https://github.com/Kavyakb58/Student_Dummy_API_Postman)
 *February 2025 – March 2025*
 
 - Developed 5+ test cases to verify response accuracy and payload consistency.

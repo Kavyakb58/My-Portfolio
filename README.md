@@ -1,7 +1,5 @@
 # 👩‍💻 Kavya K B – Quality Assurance Engineer
 
----
-
 ## 🧾 Summary
 
 Quality Assurance Engineer with 6 months of experience in **manual and automation testing**. Skilled in **functional, regression, API, and cross-browser testing**. Proficient in **Java, Selenium, TestNG, Postman, Jira, and Jenkins**. Strong knowledge of the **software testing life cycle (STLC)**, including **test planning, execution, and defect tracking**. Enthusiastic about ensuring high-quality user experiences through rigorous testing.

@@ -34,33 +34,26 @@ Quality Assurance Engineer with 6 months of experience in **manual and automatio
 
 ## 📁 Projects
 
-### 🔹 [OpenCart Manual Testing](https://github.com/Kavyakb58/OpenCart-Manual-Testing)  
+### 🔹 [OpenCart Manual Testing](https://github.com/Kavyakb58/OpenCart_ManualTesting/))  
 *March 2025 – April 2025*
 
 - Created a complete test plan and Requirement Traceability Matrix (RTM).
 - Designed and executed 182+ test cases for modules like Login, Register, Cart, Checkout.
 - Logged 10+ defects with severity classification.
 
-### 🔹 [Student API Testing using Postman](https://github.com/Kavyakb58/Student-API-Testing)  
+### 🔹 [Student API Testing using Postman](https://github.com/Kavyakb58/Student_Dummy_API_Postman))  
 *February 2025 – March 2025*
 
 - Developed 5+ test cases to verify response accuracy and payload consistency.
 - Automated 15+ requests with pre-request and post-response scripts.
 - Validated status codes, headers, cookies, and response bodies.
 
-### 🔹 [OrangeHRM Automation Testing](https://github.com/Kavyakb58/OrangeHRM-Automation-Testing)  
+### 🔹 [OrangeHRM Automation Testing](https://github.com/Kavyakb58/Orangehrm-Automation)
 *March 2025 – April 2025*
 
 - Automated login and employee management workflows using Selenium & POM.
 - Used TestNG for execution and XPath/WebElement methods for dynamic content.
 - Improved test reliability and minimized manual efforts.
-
-### 🔹 [BrowserStack Sign In/Up Page Testing](https://github.com/Kavyakb58/BrowserStack-Sign-In-Sign-Up)  
-*February 2025*
-
-- Performed cross-browser testing for Sign In & Sign Up functionalities.
-- Identified and documented UI/UX defects using exploratory testing.
-- Focused on responsiveness and behavior across browsers.
 
 ---
 

@@ -1,73 +1,92 @@
-
-# Hi there, I'm Kavya K B! 👋
-
-### 💻 Quality Assurance (QA) Enthusiast | Manual & Automation Testing | Selenium | Java | SQL
+# 👩‍💻 Kavya K B – Quality Assurance Engineer
 
 ---
 
-## 👩‍💻 About Me
+## 🧾 Summary
 
-I'm a **BCA graduate** and passionate **Quality Assurance (QA) professional** with hands-on experience in **Manual and Automation Testing**. I recently completed a **6-month QA Internship** at BrightChamps, where I focused on **ensuring quality and delivering exceptional user experiences**.  
-
-I love to **test software thoroughly**, uncovering bugs and ensuring robust functionality. I’m skilled in writing **efficient test cases, identifying defects, and using tools like JIRA and Selenium WebDriver** for automation.  
-
-> 💡 **My mission:** To contribute to building **high-quality software products** through meticulous testing and collaboration with development teams.  
+Quality Assurance Engineer with 6 months of experience in **manual and automation testing**. Skilled in **functional, regression, API, and cross-browser testing**. Proficient in **Java, Selenium, TestNG, Postman, Jira, and Jenkins**. Strong knowledge of the **software testing life cycle (STLC)**, including **test planning, execution, and defect tracking**. Enthusiastic about ensuring high-quality user experiences through rigorous testing.
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Skills
 
-- **Languages**: Java, SQL, JSON  
-- **Manual Testing**: Functional, Regression, Exploratory, Performance, Smoke, Sanity, UAT, Usability  
-- **Automation Testing**: Selenium WebDriver, TestNG, Maven (Data Driven Testing)  
-- **Tools**: JIRA, Postman (API Testing), Chrome DevTools, Eclipse IDE, Git & GitHub, Jenkins  
-- **Methodologies**: Agile, Scrum  
-
----
-
-## 📂 Projects
-
-### ✅ **OpenCart Manual Testing**
-- Performed **functional and exploratory testing** on an e-commerce platform.
-- Designed and executed **30+ real-world test cases** and reported **10+ bugs**.
-- Documented bugs and testing outcomes for structured defect management.
-
-### ✅ **BrowserStack - Sign In & Sign Up Page Testing**
-- Developed **comprehensive test cases** for user authentication workflows.
-- Conducted **exploratory testing** for edge cases and security vulnerabilities.
+- **Languages**: Java, SQL  
+- **Automation Testing**: Selenium WebDriver, TestNG  
+- **API Testing**: Postman  
+- **Defect Tracking**: Jira, Confluence  
+- **Version Control & CI/CD**: Git, GitHub, GitHub Actions, Jenkins  
+- **Build Tools**: Maven  
+- **Performance Testing**: JMeter  
+- **Testing Types**: Functional, Integration, Regression, End-to-End, Cross-Browser  
+- **Process & Methodologies**: Agile, Scrum, SDLC, STLC, Test Planning, Test Case Design, Defect Reporting  
 
 ---
 
-## 📈 Work Experience
+## 🧑‍💼 Professional Experience
 
-### 🔹 **QA Intern at BrightChamps (July 2024 - Jan 2025)**
-- Tested **Student Learning Modules, Landing Pages, Dashboards**, achieving **99% coverage**.
-- Designed **70+ test cases**, contributing to **95% defect-free releases**.
-- Identified and resolved **30+ defects** using **JIRA**.
-- Practiced **sanity and regression testing** for major product updates.
+### 🌟 BrightChamps – QA Intern  
+**Bangalore, India** | *July 2024 – January 2025*
+
+- Focused on Student Learning Module (95%), Landing Pages (60%), and Dashboards (40%).
+- Created and executed 90+ test cases, achieving 99% functionality.
+- Performed regression, functional, and compatibility testing, reducing post-release bugs by 95%.
+- Logged and tracked 30+ issues in JIRA.
 
 ---
 
-## 📜 Certifications
+## 📁 Projects
 
-- [Software Manual Testing (Udemy)](https://www.udemy.com/certificate/UC-c1de5f46-178d-45ca-8d28-3409273b4bcc/)
-- [Master Selenium Automation testing with java (Udemy)](ude.my/UC-bbd83945-0ff8-493d-81c8-e458efdcc32f)
+### 🔹 [OpenCart Manual Testing](https://github.com/Kavyakb58/OpenCart-Manual-Testing)  
+*March 2025 – April 2025*
+
+- Created a complete test plan and Requirement Traceability Matrix (RTM).
+- Designed and executed 182+ test cases for modules like Login, Register, Cart, Checkout.
+- Logged 10+ defects with severity classification.
+
+### 🔹 [Student API Testing using Postman](https://github.com/Kavyakb58/Student-API-Testing)  
+*February 2025 – March 2025*
+
+- Developed 5+ test cases to verify response accuracy and payload consistency.
+- Automated 15+ requests with pre-request and post-response scripts.
+- Validated status codes, headers, cookies, and response bodies.
+
+### 🔹 [OrangeHRM Automation Testing](https://github.com/Kavyakb58/OrangeHRM-Automation-Testing)  
+*March 2025 – April 2025*
+
+- Automated login and employee management workflows using Selenium & POM.
+- Used TestNG for execution and XPath/WebElement methods for dynamic content.
+- Improved test reliability and minimized manual efforts.
+
+### 🔹 [BrowserStack Sign In/Up Page Testing](https://github.com/Kavyakb58/BrowserStack-Sign-In-Sign-Up)  
+*February 2025*
+
+- Performed cross-browser testing for Sign In & Sign Up functionalities.
+- Identified and documented UI/UX defects using exploratory testing.
+- Focused on responsiveness and behavior across browsers.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-Bangalore University (2020 - 2023) — CGPA: 9.15/10
+### 🎓 Bachelor of Computer Applications  
+**Bangalore University** | *2020 – 2023*  
+**CGPA**: 9.15 / 10
 
 ---
 
-## 🌐 Let's Connect!
+## 🏅 Certifications
 
-- 📧 **Email**: kavyakb58@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/kavyakb58](https://www.linkedin.com/in/kavyakb58)  
-- 💻 **GitHub**: [github.com/Kavyakb58](https://github.com/Kavyakb58)  
+- [✔️ Software Manual Testing (Udemy)](https://www.udemy.com/certificate/UC-c1de5f46-178d-45ca-8d28-3409273b4bcc/)  
+- [✔️ Master Selenium Automation Testing with Java (Udemy)](https://ude.my/UC-bbd83945-0ff8-493d-81c8-e458efdcc32f)
 
 ---
 
-⭐️ Thank you for visiting my profile! Let's collaborate to make software **better and bug-free**! 🚀
+## 📬 Contact Me
+
+- 📧 Email: [kavyakb58@gmail.com](mailto:kavyakb58@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/kavyakb58](https://linkedin.com/in/kavyakb58)  
+- 💻 GitHub: [github.com/Kavyakb58](https://github.com/Kavyakb58)
+
+---
+
+⭐ *Thanks for visiting my profile! Let's build better software together.*  

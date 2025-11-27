@@ -1,4 +1,4 @@
-# 👩‍💻 Kavya K B – Quality Assurance Engineer
+# 👩‍💻 Kavya K B – QA Automation Engineer
 
 ## 🧾 Summary
 

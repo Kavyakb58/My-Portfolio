@@ -88,8 +88,8 @@ Detail-oriented QA Automation Engineer with **1 year of combined internship expe
 ---
 
 ## ⭐ Testimonials
-
-*“I had the opportunity to mentor Kavya during her internship, and she consistently impressed the team with her strong knowledge of automation and her ability to deliver high-quality work. She learns new concepts remarkably fast and applies them with confidence and accuracy. Her dedication and ownership stand out — she takes responsibility for her tasks, meets deadlines without follow-ups, and proactively resolves challenges. With sharp analytical skills and a collaborative mindset, she contributes valuable ideas and supports the team whenever needed. She will be a great asset to any team she joins. She is one of the best resources I have seen.”*  
+- **Guru Basavaraj — Senior QA Manager, Indusface**  
+  *“I had the opportunity to mentor Kavya during her internship, and she consistently impressed the team with her strong knowledge of automation and her ability to deliver high-quality work. She learns new concepts remarkably fast and applies them with confidence and accuracy. Her dedication and ownership stand out — she takes responsibility for her tasks, meets deadlines without follow-ups, and proactively resolves challenges. With sharp analytical skills and a collaborative mindset, she contributes valuable ideas and supports the team whenever needed. She will be a great asset to any team she joins. She is one of the best resources I have seen.”*  
   **[View full recommendation on LinkedIn](https://www.linkedin.com/in/kavaykb58/)**
 
 ---

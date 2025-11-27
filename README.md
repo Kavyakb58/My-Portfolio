@@ -66,13 +66,6 @@ Detail-oriented QA Automation Engineer with **1 year of combined internship expe
 - Built and executed **5+ API test cases** validating request/response status codes, headers, and payloads.  
 - Wrote **10+ automation scripts** using Pre-request and Test Scripts in Postman.
 
-### 🔹 [OrangeHRM Automation Testing](https://github.com/Kavyakb58/Orangehrm-Automation)
-*Automation Testing | March 2025 – April 2025*
-
-- Automated login and employee management workflows using **Selenium & POM**.  
-- Used TestNG for execution and XPath/WebElement methods for dynamic content.  
-- Improved test reliability and minimized manual efforts.
-
 ---
 
 ## 💼 Services I Offer
@@ -83,14 +76,21 @@ Detail-oriented QA Automation Engineer with **1 year of combined internship expe
 - **Regression & Cross-Browser Testing:** Chrome, Firefox, Edge (BrowserStack/LambdaTest)  
 - **Custom QA Packages:** Combination of manual, automation, API testing as per client needs  
 
-## 🏆 Achievements & Recognition
+---
+
+## 🏆 Achievements
 
 - Scripted **250+ automation UI test cases** at Indusface.  
-- Reduced daily E2E test execution time by 30–40%.  
-- Achieved **99% functionality coverage** at BrightChamps.  
-- Received strong recommendation from **Guru Basavaraj, Senior QA Manager at Indusface**:  
-> "I had the opportunity to mentor Kavya during her internship, and she consistently impressed the team with her strong knowledge of automation and her ability to deliver high-quality work. She learns new concepts remarkably fast and applies them with confidence and accuracy. Her dedication and ownership stand out—she takes responsibility for her tasks, meets deadlines without follow-ups, and proactively resolves challenges. With sharp analytical skills and a collaborative mindset, she contributes valuable ideas and supports the team whenever needed. She will be a great asset to any team she joins. She is one of the best resources I have seen."  
-[View full recommendation on LinkedIn](https://www.linkedin.com/in/kavaykb58/)
+- Reduced daily **E2E test execution time by 30–40%** through optimized automation scripts.  
+- Achieved **99% functionality coverage** at BrightChamps for the Student Learning Module.  
+- Successfully worked across **UI, API, Database, and Cross-Browser testing** delivering high-quality results.
+
+---
+
+## ⭐ Testimonials
+
+*“I had the opportunity to mentor Kavya during her internship, and she consistently impressed the team with her strong knowledge of automation and her ability to deliver high-quality work. She learns new concepts remarkably fast and applies them with confidence and accuracy. Her dedication and ownership stand out — she takes responsibility for her tasks, meets deadlines without follow-ups, and proactively resolves challenges. With sharp analytical skills and a collaborative mindset, she contributes valuable ideas and supports the team whenever needed. She will be a great asset to any team she joins. She is one of the best resources I have seen.”*  
+  **[View full recommendation on LinkedIn](https://www.linkedin.com/in/kavaykb58/)**
 
 ---
 
